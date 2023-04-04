@@ -13,6 +13,6 @@
 
 
 ## LIVE ON REDNDER ##
-<a href="https://admin-frontend-1-hm6i.onrender.com/dashboard">Live Click</a>
+<a href="https://admin-frontend-1-hm6i.onrender.com">Live Click</a>
 
 <p>THANKS EDROH for Guiding me in the project</p>
